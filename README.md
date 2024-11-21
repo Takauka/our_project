@@ -2,8 +2,10 @@
 Initialize this repository with a README
 
 
-**Thursday 4th / Second semester / 2024**
+**木曜４限 / 後期 / 2024**
 <br>
-This repository for 3rd year seminar
+授業名：３年次演習
+<br>
+講師：中鉢
 <br>
 
