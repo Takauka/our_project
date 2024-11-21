@@ -6,6 +6,6 @@ Initialize this repository with a README
 <br>
 授業名：３年次演習
 <br>
-講師：中鉢
+講師：中鉢先生
 <br>
 
